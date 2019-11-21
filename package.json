@@ -1,0 +1,26 @@
+{
+  "name": "http-proxy-middleware-body-parser",
+  "version": "1.0.0",
+  "description": "Solve the problem that bodyparser middleware can't be used with http-proxy-middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qbright/http-proxy-middleware-body-parser.git"
+  },
+  "keywords": [
+    "http-proxy-middleware",
+    "bodyparser"
+  ],
+  "author": "zqbright@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qbright/http-proxy-middleware-body-parser/issues"
+  },
+  "homepage": "https://github.com/qbright/http-proxy-middleware-body-parser#readme",
+  "dependencies": {
+    "concat-stream": "^2.0.0"
+  }
+}
